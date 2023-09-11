@@ -1,7 +1,7 @@
 <div align="center" width="500">
 <img src="https://im2.ezgif.com/tmp/ezgif-2-8c2f3c8964.gif" width="600">
 </div>
-<h1 align="center">Hi Fellas :wave:: I'm Brahmantyo Candra Wijaya</h1>
+<h1 align="center">Hi Fellas :wave: I'm Brahmantyo Candra Wijaya</h1>
 
 - 📫 How to reach me **brahmantyocandra69@gmail.com**
 
