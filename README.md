@@ -11,4 +11,4 @@
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/bruhmantyo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bruhmantyo/" height="30" width="40" /></a>
 </p>
-<a href="https://open.spotify.com/user/anc6f4aoxztzonzmtkqdmyd20?si=atx9xLuJTcKHwB8JQ-kMTA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="https://www.instagram.com/bruhmantyo/" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/anc6f4aoxztzonzmtkqdmyd20?si=atx9xLuJTcKHwB8JQ-kMTA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="https://www.instagram.com/bruhmantyo/" height="30" width="40" /></a
