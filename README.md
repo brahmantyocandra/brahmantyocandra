@@ -1,4 +1,5 @@
 # Brahmantyo Candra Wijaya
 
-ini coba ya :smile: :car:
-gatau bisa apa engga
+ini coba ya :smile:
+
+ternyata bisa
